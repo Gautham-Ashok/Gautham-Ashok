@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a final-year B.Tech student in **Computer Science (Gaming Technology)** at VIT Bhopal (CGPA: 8.61), passionate about building end-to-end data systems and AI-powered applications.
+I'm a final-year B.Tech student in **Computer Science (Gaming Technology)** at Vellore Institute of Technology Bhopal (CGPA: 8.61), passionate about building end-to-end data systems and AI-powered applications.
 
 I work at the intersection of **Data Engineering** and **LLM/GenAI** — from architecting cloud data pipelines on Azure to building hallucination-resistant RAG systems with custom evaluation frameworks.
 
